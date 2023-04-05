@@ -1,7 +1,7 @@
 # User_Page
 My name is *Ka Wing Yan*, And you can call me **Terry**.
 >Computer engineering student at UC San Diego
-![Working experience photo](/CSE-110/Carrer.jpgCarrer.jpg)
+![Working experience photo](/CSE-110/Carrer.jpg)
 Some basic computer language are learned:
 ```
 Python
@@ -21,4 +21,4 @@ Job descrption:
 - Help Non-english student to translation 
 
 [README.md](README.md)
-[Read Me Again](https://github.com/TerryYan26/CSE-110/tree/main/index.md#User_Page) :)
+[Read Me Again](https://github.com/TerryYan26/CSE-110/tree/main/index.md# User_Page) :)
