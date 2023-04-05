@@ -15,19 +15,24 @@ C++
 SystemVerlog
 
 ```
-### Before Fraduation
+Space time activity:
+- Hilking
+- Playing game
+- Watching Movie
+- Cooking
+### Before Graduation
 
-1. [x] Meet more friends
-2. [ ] Work team projects
-3. [ ] get internships
+- [x] Meet more friends
+- [ ] Work team projects
+- [ ] get internships
 
 ## Working Experiences
 ### **Student Assistant in ELAC**
 Job descrption:
-- supporting multiple department
-- Helping college staff, professor
-- Working with different ethnicity
-- Help Non-english student to translation 
+1. supporting multiple department
+2. Helping college staff, professor
+3. Working with different ethnicity
+4. Help Non-english student to translation 
 
 [README.md](README.md)
 
