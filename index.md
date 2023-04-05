@@ -21,4 +21,4 @@ Job descrption:
 - Help Non-english student to translation 
 
 [README.md](README.md)
-[Read Me Again](https://github.com/TerryYan26/CSE-110/blob/VS-UI/index.md) :)
+[Read Me Again](https://github.com/TerryYan26/CSE-110/blob/VS-UI/index.md# User_Page) :)
