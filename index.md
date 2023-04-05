@@ -1,7 +1,11 @@
 # User_Page
 My name is *Ka Wing Yan*, And you can call me **Terry**.
 >Computer engineering student at UC San Diego
-![Working experience photo](/CSE-110/Carrer.jpg)
+
+
+![Working experience photo](Carrer.jpg)
+
+
 Some basic computer language are learned:
 ```
 Python
