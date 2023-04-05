@@ -17,9 +17,9 @@ SystemVerlog
 ```
 ### Before Fraduation
 
-- [x] Meet more friends
-- [ ] Work team projects
-- [ ] get internships
+1. [x] Meet more friends
+2. [ ] Work team projects
+3. [ ] get internships
 
 ## Working Experiences
 ### **Student Assistant in ELAC**
