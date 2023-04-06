@@ -35,5 +35,6 @@ Job descrption:
 
 [README.md](README.md)
 
-[Read Me Again](https://github.com/TerryYan26/CSE-110/blob/VS-UI/index.md#User-Page) :)
+[Read Me Again](https://github.com/TerryYan26/CSE-110/blob/main/index.md#user-page) :)
+
 [Link to CSE department](https://cse.ucsd.edu/)
