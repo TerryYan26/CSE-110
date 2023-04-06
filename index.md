@@ -2,7 +2,6 @@
 My name is *Ka Wing Yan*, And you can call me **Terry**.
 >Computer engineering student at UC San Diego
 
-
 ![Working experience photo](Carrer.jpg)
 
 
@@ -13,7 +12,7 @@ Java
 C
 C++
 SystemVerlog
-
+etc
 ```
 Space time activity:
 - Hilking
@@ -36,4 +35,5 @@ Job descrption:
 
 [README.md](README.md)
 
-[Read Me Again](https://github.com/TerryYan26/CSE-110/blob/VS-UI/index.md#User_Page) :)
+[Read Me Again](https://github.com/TerryYan26/CSE-110/blob/VS-UI/index.md#User-Page) :)
+[Link to CSE department](https://cse.ucsd.edu/)
